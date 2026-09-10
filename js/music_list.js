@@ -16,7 +16,7 @@ var myPlaylist = [
     name: "black33",
     artist: "Novo Amor,yvette young",
     url: "/music/Novo Amor,yvette young - black33.mp3",
-    cover: "/music/cover/black.jpg"
+    cover: "/music/cover/black33.jpg"
   },
   {
     name: "monty (＾ᴥ＾) (acoustic)",
